@@ -2283,3 +2283,9 @@ button,
 .game {
 	text-align: center;
 }
+
+.embed-container {
+	display: block;
+	width: 100%;
+	border: 0;
+}
